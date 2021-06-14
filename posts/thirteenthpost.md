@@ -1,7 +1,7 @@
 ---
 title: Healthy Lifestyle
 description: Sometimes being healthy is harder than you think...
-date: 2018-12-23
+date: 2019-01-05
 tags: 
   - Thoughts
   - Lifestyle
