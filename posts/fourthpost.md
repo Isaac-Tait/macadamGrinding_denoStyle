@@ -9,22 +9,19 @@ tags:
 
 <p>When I got the Grit 110 my plan was to customize her. As parts wore out I would upgrade them with what I really wanted. At first I was leaning towards a 1x drive train, but after a month or so I realized the smartest upgrade would be wheels.</p>
 
-<img src="" alt="" class="blogImages" />
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Velocity+Wheels/gravel+bike-gravel+cyclist-velocity+rims-hope+hubs-nate+harison+grade-disc+brakes.jpg" alt="hubs" class="blogImages" />
 
 <h4>Upgrading...</h4>
 
 <p>My factory hubs used cup and cone bearings. They were very cheap. Within 100km or so the grease was gone and needed to be replaced. Getting the bearings properly packed and torqued proved an insanely difficult task.&nbsp;The bearings were already starting to pit and making them tight enough not to 'clunk' caused the hub to seize momentarily twice in their rotation. On one ride I snapped a rear wheel spoke when I clipped a branch the size of standard pencil lying in the middle of the road. Then there was the weight - all 2,300 grams of it!</p>
 
-<p>When I was upgrading the wheels on my <a href="http://157.230.153.196/gravel-grinding/" target="_blank">Novara</a>&nbsp;I contacted the good folks at WheelBuilder.com and asked them for&nbsp;recommendations for a white, 27.5, 32 hole, tubeless ready, disc only rim. They suggested the <a href="http://store.velocityusa.com/p/blunt-ss-27-5" target="_blank">Velocity Blunt SS</a>. I had those wheels built in Japan by a world class wheel builder. Between the Hope Pro 4 hub and the rims those wheels blew my mind. They not only survived the jungles of Japan but&nbsp;the mud, humidity, and heavy rainfall as well. When it came time to build wheels for my Grit 110 I went with the <a href="http://www.velocityusa.com/product/rims/aileron-622" target="_blank">Velocity Aileron</a> and the Hope Pro 4 hubs <a href="http://www.hopetech.com/product/pro-4-front-hub/" target="_blank">front </a>and <a href="http://www.hopetech.com/product/pro-4-rear-hub/" target="_blank">rear</a>. I opted for the burnt orange hubs mated with butted spokes and burnt orange alloy nipples. &nbsp;</p>
+<p>When I was upgrading the wheels on my <a href="https://macadamgrinding.com/gravel-grinding/" target="_blank">Novara</a>&nbsp;I contacted the good folks at WheelBuilder.com and asked them for&nbsp;recommendations for a white, 27.5, 32 hole, tubeless ready, disc only rim. They suggested the <a href="http://store.velocityusa.com/p/blunt-ss-27-5" target="_blank">Velocity Blunt SS</a>. I had those wheels built in Japan by a world class wheel builder. Between the Hope Pro 4 hub and the rims those wheels blew my mind. They not only survived the jungles of Japan but&nbsp;the mud, humidity, and heavy rainfall as well. When it came time to build wheels for my Grit 110 I went with the <a href="http://www.velocityusa.com/product/rims/aileron-622" target="_blank">Velocity Aileron</a> and the Hope Pro 4 hubs <a href="http://www.hopetech.com/product/pro-4-front-hub/" target="_blank">front </a>and <a href="http://www.hopetech.com/product/pro-4-rear-hub/" target="_blank">rear</a>. I opted for the burnt orange hubs mated with butted spokes and burnt orange alloy nipples. &nbsp;</p>
 
-<img src="" alt="" class="blogImages" />
-
-<img src="" alt="" class="blogImages" />
-
-<img src="" alt="" class="blogImages" />
-
-<img src="" alt="" class="blogImages" />
-
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Velocity+Wheels/gravel+bike-gravel+cyclist-velocity+rims-hope+hubs-nate+harison+grade-drivetrain.jpg" alt="rear wheel" class="blogImages" />
+<hr />
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Velocity+Wheels/gravel+bike-gravel+cyclist-velocity+rims-hope+hubs-nate+harison+grade-made+in+america.jpg" alt="" class="blogImages" />
+<hr />
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Velocity+Wheels/gravel+bike-gravel+cyclist-velocity+rims-hope+hubs-nate+harison+grade-made+in+britain.jpg" alt="nice hubs" class="blogImages" />
 
 <h4>Specs</h4>
 
@@ -33,6 +30,8 @@ tags:
 <h4>Moving forward (literally)...</h4>
 
 <p>The wheels when I was all in for labor and parts came to $750. Almost as much as the bike itself! The next upgrade will probably be to the crank, which weighs an insane 1200 grams with the bottom bracket! Still sorting out what I want to get although I am leaning heavily towards the <a href="https://www.wolftoothcomponents.com" target="_blank">Wolf Tooth</a> oval rings and I will be sticking with a 2x drive train. Too many times have I found myself wishing for a lower gear while pushing the 50/11 rings.</p>
+
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Velocity+Wheels/gravel+bike-gravel+cyclist-velocity+rims-hope+hubs-nate+harison+grade.jpg" alt="palomar mountain state park" class="blogImages" />
 
 <h4>Tweaks</h4>
 

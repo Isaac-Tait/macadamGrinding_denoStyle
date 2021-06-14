@@ -23,6 +23,8 @@ tags:
 
 <h4>Overcoming the second hurdle</h4>
 
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Photos/gravel+riding-gravel+grinding-gravel+cyclist-bicycles-bike+riding-adventure-cyclist-.jpg" alt="a nice gravel road" class="blogImages" />
+
 <p>Well, when she finally started coming around to the idea of procuring a gravel bike the obvious next question was:</p>
 
 <p><em>"How much do you want to spend?"</em></p>
@@ -30,6 +32,8 @@ tags:
 <p>All I remember, after answering the question, was some shrieking followed by deep bellicose laughing. </p>
 
 <p>I had to come down significantly from my original number in order to bring the discussion back on the table.</p>
+
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Photos/gravel+riding-gravel+grinding-gravel+cyclist-bicycles-bike+riding-adventure-cyclist-bison.jpg" alt="Bison" class="blogImages" />
 
 <h4>Overcoming the third hurdle</h4>
 
@@ -43,6 +47,8 @@ tags:
 
 <p>I have been riding bikes for nye on two decades now. I started out with a black steel Marin hardtail with an RST fork. I saved for months to buy a RockShok Judy fork because every time I hit a big bump the RST's internals would pop out. A year or two later, I sold that bike and got a Cannondale with a head shock - it was a cool bike. I also happened to take 3rd place in my first bike race on her too. After graduating from U.S. Marine Corps bootcamp I had to spend my money on&nbsp;something, so I bought a Giant NRS2. I still have that bike, albeit just the frame sitting on the top shelf in my garage.</p>
 
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Photos/gravel+riding-gravel+grinding-gravel+cyclist-bicycles-bike+riding-adventure-cyclist-more+mud.jpg" alt="now that is a muddy road" class="blogImages">
+
 <h4>A short gig as a bike mechanic</h4>
 
 <p>In 2014 I got a job at REI in Maryland working mostly in the bike shop. It was my favorite civilian job ever. Since working there I cannot kick the idea of starting my own shop (or at the very least working in one again). Alas I digress - while working at REI one of my responsibilities was building bikes. One evening I built a Novara Ponderosa 27.5 mountain bike. When I took her outside for a test ride I knew right away I had to have her. Thankfully I had two things working for me.</p>
@@ -52,6 +58,8 @@ tags:
 <p>She acquiesced and for the first time in my life I had two bikes in my stable.&nbsp;</p>
 
 <h4>My local shop</h4>
+
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Photos/gravel+riding-gravel+grinding-gravel+cyclist-bicycles-bike+riding-adventure-cyclist-pacific+ocean.jpg" alt="the pacific ocean" class="blogImages">
 
 <p>Bikes have been a large part of my life for almost 20 years. With the addition of an infant into our family I was looking for a bike that I could have fun with on my own but was also capable of pulling a bike trailer. I had a lot of options but eventually settled on a gravel bike. I was also keen on supporting my local bike shop and so my options were limited to bike brands that they carried. I feel that too much of our commerce these days is online and impersonal. I did not want my bike to become that. I have so many great memories as a kid of the guys who worked at my local shop. They were cool guys and they loved bikes. Even though I was 30 sometimes 40 years their junior they still invited me out for group rides.</p>
 
