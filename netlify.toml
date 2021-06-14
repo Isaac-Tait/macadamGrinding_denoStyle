@@ -3,5 +3,5 @@
   command = """
     curl -fsSL https://deno.land/x/install/install.sh | sh && \
     /opt/buildhome/.deno/bin/deno run -A https://deno.land/x/lume/ci.js \
-      --location=https://deno-blog.netlify.app/ \
+      --location=https://gallant-wilson-75585d.netlify.app/ \
   """
