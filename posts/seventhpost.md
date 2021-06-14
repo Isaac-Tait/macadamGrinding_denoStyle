@@ -7,7 +7,6 @@ tags:
   - Thoughts
 
 ---
-
 <p>As an entry level cyclist we are prone to make mistakes. Shoot even world class cyclists make mistakes. While everyone makes cycling mistakes it is&nbsp;important is to learn from them. Learning from other peoples mistakes is also a great way to learn. So in the spirit of sharing and because I like to spin a good yarn, let me tell you about the first time I rode up The Nate Harrison Grade...</p>
 
 <h4>Cycling Mistakes</h4>
