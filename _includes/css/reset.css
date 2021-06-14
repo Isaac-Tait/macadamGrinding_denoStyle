@@ -38,7 +38,12 @@ a {
   box-shadow: 10px 10px lightgray;
 }
 
-
+.footer {
+  text-align: center;
+  background-color: #e6e6e6;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
 /* Warning */
 .warning {
   background-color: #ffc;
