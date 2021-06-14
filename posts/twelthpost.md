@@ -8,7 +8,15 @@ tags:
 
 <p>Just over a month ago I had the honor of having a few of my photos featured on the penultimate gravel grinding website - Gravel Cyclist! Check out my photo gallery&nbsp;<a rel="noreferrer noopener" aria-label="A few weeks back I had the distinct honor of having some of my photos featured on the penultimate gravel grinding website - Gravel Cyclist. Check out the photos here. (opens in a new tab)" href="https://www.gravelcyclist.com/training-rides/photo-feature-the-dirt-gravel-and-anything-goes-roads-of-san-diego-california-by-isaac-t/" target="_blank">here</a>.</p>
 
-<p>Here are some other photos that did not make the cut...&nbsp;</p>
+<p>Here are a few other photos that did not make the cut...&nbsp;</p>
+
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Camp+Pendleton+Gravel/healthy+lifestyle-gravel+riding-gravel+cyclist-san+diego-gravel+bike-.jpg" alt="tree" class="blogImages" />
+<hr />
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Camp+Pendleton+Gravel/healthy+lifestyle-gravel+riding-gravel+cyclist-san+diego-gravel+bike-beach+2.jpg" alt="clouds" class="blogImages" />
+<hr />
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Camp+Pendleton+Gravel/healthy+lifestyle-gravel+riding-gravel+cyclist-san+diego-gravel+bike-beach-ocean.jpg" alt="waves" class="blogImages" />
+<hr />
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Camp+Pendleton+Gravel/healthy+lifestyle-gravel+riding-gravel+cyclist-san+diego-gravel+bike-singletrack.jpg" alt="" class="blogImages" />
 
 <h4>In other news...<br></h4>
 
