@@ -1,0 +1,18 @@
+---
+layout: layouts/home.njk
+menu:
+  visible: true
+  title: Home
+  order: 0
+---
+
+{% set maxPosts = search.pages("type=posts").length | min(3) %}
+<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+
+{% set postslist = search.pages("type=posts", "date", -3) %}
+{% set postslistCounter = search.pages("type=posts").length %}
+{% include "templates/postslist.njk" %}
+
+<hr>
+
+<p>More posts can be found in <a href="/posts/">the archive</a>.</p>
