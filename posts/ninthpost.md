@@ -10,6 +10,8 @@ tags:
 
 <p>A few years back I started having some pretty serious stomach issues. I toughed it out for a while, but when it got too bad to deal with I went to the doctor. I was told that I had acid reflux (GERD) and IBS (Irritable Bowel Syndrome). They gave me Prilosec and a few other meds to help reign in my symptoms. After taking Prilosec for a few months I found out that my dad had been diagnosed with anemia and that it was most likely related to the Prilosec he had been taking for several years. It turns out that a continuous dose of Prilosec can make one <a href="https://www.researchgate.net/publication/11017924_Iron_deficiency_anemia_-_Induced_by_long-term_ingestion_of_omeprazole" target="_blank" rel="noreferrer noopener">anemic</a>...</p>
 
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Go+for+a+ride/gravel+grinding-gravel+riding-riding-training-cycling-sunset.jpg" alt="sunset" class="blogImages" />
+
 <h4>What is Low-FODMAP?</h4>
 
 <p>So, I stopped taking Prilosec and switched to Turmeric. Turmeric helped more than the Prilosec, but I was still pretty miserable. In desperation I did some more research and discovered that a Low-FODMAP (aka <strong>F</strong>ermentable <strong>O</strong>ligo-, <strong>D</strong>i-, <strong>M</strong>ono-saccharides <strong>A</strong>nd <strong>P</strong>olyols) diet could help alleviate my symptoms. Researchers at Monash University in Australia determined that a Low-FODMAP diet alleviated IBS symptoms in 75% of their test group! That sounded promising, so I got a Kindle copy of the book <em>"The Low-FODMAP 28-Day Plan: A Healthy Cookbook with Gut-Friendly Recipes for IBS Relief"</em> and dove in head first.</p>
@@ -18,11 +20,15 @@ tags:
 
 <p>The book begins by answering the question: What is a Low-FODMAP diet? Then it jumps right into an eating plan. To experience any real gains from the diet you are supposed to cleanse your system from all High-FODMAP foods for one month. To do this you follow a weekly guide that includes shopping lists and meal prep/recipe instructions. This eating plan is the bread &amp; butter of the book. I found this portion of the book to be the most help.</p>
 
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Go+for+a+ride/gravel+grinding-gravel+riding-riding-training-cycling-road.jpg" alt="bridge" class="blogImages" />
+
 <h4>Trial and Error</h4>
 
-<p>I started by cleaning out my cupboards. Everything I could not eat was put in the back of the top shelf or thrown out. I was quite surprised by the amount of foods that were in my <a href="http://157.230.153.196/nutrition/" target="_blank" rel="noreferrer noopener">diet </a>that were High-FODMAP. It can be daunting to eliminate all Fructose, Lactose, Fructans (aka inulin), Galacto-oligosaccharieds (aka GOS), and Polyols from your diet - but I stuck with it. The early stages of the diet I often found myself eating a certain food, experiencing stomach issues, then Googling the food only to find out that it was High-FODMAP. The cleansing process is supposed to take four weeks. It took me six weeks, due to the learning curve.</p>
+<p>I started by cleaning out my cupboards. Everything I could not eat was put in the back of the top shelf or thrown out. I was quite surprised by the amount of foods that were in my <a href="https://macadamgrinding.com/nutrition/" target="_blank" rel="noreferrer noopener">diet </a>that were High-FODMAP. It can be daunting to eliminate all Fructose, Lactose, Fructans (aka inulin), Galacto-oligosaccharieds (aka GOS), and Polyols from your diet - but I stuck with it. The early stages of the diet I often found myself eating a certain food, experiencing stomach issues, then Googling the food only to find out that it was High-FODMAP. The cleansing process is supposed to take four weeks. It took me six weeks, due to the learning curve.</p>
 
 <p>The recipes in the book were quite delicious, which made sticking with the diet easier. My wife moaned and groaned when I told her we were going to be eating a Low-FODMAP diet. But, the first night when I served Halibut with Lemon-Basil Beurre Blanc and Braised Endives (a recipe in the above mentioned book), she perked up.</p>
+
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Go+for+a+ride/gravel+grinding-gravel+riding-riding-training-cycling-river.jpg" alt="bike closeup" class="blogImages" />
 
 <h4>My trigger foods</h4>
 
@@ -40,6 +46,8 @@ tags:
 
 <p>I have tried several different types of <a href="https://www.laurenrenlund.com/2017/09/09/yogurts-low-fodmap-lactose-dietitian/" target="_blank" rel="noreferrer noopener">yogurts </a>and so far have not found any that do not cause me some pretty serious stomach problems. Likewise, milk does not settle well on my stomach. So, I tried Lactose free milk and felt much better. Than I read that the FDA allows a certain amount of <a href="https://nutritionfacts.org/2011/09/08/how-much-pus-is-there-in-milk/" target="_blank" rel="noreferrer noopener">puss </a>in cows milk. I switched to Almond Milk. Consequently, currently consuming dairy limits me to hard cheeses only.</p>
 
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Go+for+a+ride/gravel+grinding-gravel+riding-riding-training-cycling-river+crossing.jpg" alt="river crossing" class="blogImages" />
+
 <h5>Wheat</h5>
 
 <p>I can consume gluten, but in small quantities only. Eating a slice or two of whole grain bread during the day does not cause me any discomfort. However, combining that bread with a beer or two, a burger or pasta, or cereal in one day can leave my writhing on the floor in agony for hours. Consequently, I tend to stay as far away from gluten as possible. That is easier said than done though. Finding gluten free alternatives that are not made exclusively from refined grains (e.g. rice flower) can be challenging.</p>
@@ -49,6 +57,8 @@ tags:
 <p>Here are some solutions to my diet restriction that I have recently discovered:</p>
 
 <ul><li>Vans Cereal - It is made with their proprietary gluten free whole grain flour blend of oats, brown rice, millet, quinoa, and amaranth. It is really high in sugar though, which is a huge bummer.</li><li>DeBoles Pasta - &nbsp;They make some delicious pastas using brown rice, quinoa, and <a href="https://www.monashfodmap.com/blog/grains-low-fodmap-diet/" target="_blank" rel="noreferrer noopener">amaranth </a>flour</li><li>Ancient Harvest - This pasta is made with red lentils (technically red lentils are a legume but Ancient Harvest also use Quinoa flour to make the pasta). True lentils are High-FODMAP; however, Monash University has <a href="https://www.monashfodmap.com/blog/cooking-legumes/" target="_blank" rel="noreferrer noopener">determined </a>that boiling red lentils in water can reduce the Oligosaccharides. Try this pasta after you have finished your cleanse - consuming this pasta does not cause me any dietary distress.</li><li>Thankfully Cholula sauce is Low-FODMAP since Sriracha is not :(&nbsp;</li><li>Fody &amp; Fodmapped make some great foods that put spaghetti sauce, salsa, and soup back in my diet.</li></ul>
+
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Go+for+a+ride/gravel+grinding-gravel+riding-riding-training-cycling-mud.jpg" alt="some serious mud" class="blogImages" />
 
 <h4>Recipes</h4>
 
@@ -65,6 +75,8 @@ tags:
 <h4>Final Thoughts</h4>
 
 <p>When I first ventured into the Low-FODMAP diet I was concerned that I was eliminating too many healthy foods from my diet. I began to worry that I would end up relegated to a small amount of edible foods and that my training as an endurance athlete would suffer as a result. Looking back I can honestly say that I am glad I stuck with it. My IBS/GERD symptoms have improved dramatically and with it my quality of life too. </p>
+
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Initial+Content/Go+for+a+ride/gravel+grinding-gravel+riding-riding-training-cycling-mud+2.jpg" alt="now that is a lot of mud!" class="blogImages" />
 
 <p>While my list of trigger foods is extensive, I prefer to view it as empowering me instead of limiting me. Adopting a Low-FODMAP diet has given me back the power over food in that I choose which foods to eat and which foods to abstain from. I no longer am intimidated to go out and eat with friends or family. To make things even better I am losing weight and I feel healthier than I have in my entire life. Last, but not least I finally feel like I can apply myself 100% and pursue a serious training regimen of fitness without being held back by crippling stomach pain.</p>
 
