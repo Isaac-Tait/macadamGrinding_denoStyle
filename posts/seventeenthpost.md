@@ -4,6 +4,7 @@ description: I embark on my first bike race and experience some unexpected issue
 date: 2019-03-08
 tags:
   - Thoughts
+  - Race Report
 ---
 <p>This past weekend was my first race for the 2019 season - <a rel="noreferrer noopener" aria-label="Strada Rossa VI (opens in a new tab)" href="https://www.stradarossa.com" target="_blank">Strada Rossa VI</a>. A lot of training and preparation went into the workup for this "race". Starting in November last year I followed <a rel="noreferrer noopener" aria-label="Trainer Road (opens in a new tab)" href="https://www.trainerroad.com" target="_blank">Trainer Road</a> plans and did focused strength training at the gym. I also revamped my <a rel="noreferrer noopener" aria-label="diet  (opens in a new tab)" href="http://3.92.164.201/the-endurance-diet/" target="_blank">diet</a> and took many other <a rel="noreferrer noopener" aria-label="big  (opens in a new tab)" href="http://3.92.164.201/healthy-lifestyle/" target="_blank">big</a> steps to work on my overall health. Then three weeks before Strada Rossa 6 I kicked off my taper to ensure I was in tip-top shape for the big day. </p>
 
