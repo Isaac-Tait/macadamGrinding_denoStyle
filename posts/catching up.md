@@ -1,5 +1,5 @@
 ---
-title: Catching UP
+title: Catching Up
 description: It has been a while since I blogged last, here is what I have been up to lately...
 date: 2019-07-10
 tags:
