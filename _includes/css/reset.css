@@ -1,10 +1,16 @@
 :root {
-  --red: #c04;
+  --red: #f27406;
   --lightgray: #e6e6e6;
-  --darkgray: #0d1117;
-  --blue: #135;
+  --darkgray: #526d73;
+  --blue: #f17a78;
   --white: #fff;
+  --orange: #f2b74b;
 }
+
+@font-face {
+  font-family: bodedo, sans-serif;
+  src: url(https://use.typekit.net/anz5fgm.css);
+};
 
 html,
 body {
@@ -12,7 +18,7 @@ body {
   margin: 0;
   font-family: -apple-system, system-ui, sans-serif;
   color: var(--darkgray);
-  background-color: #e3b654;
+  background-color: var(--orange);
   
 }
 
@@ -46,9 +52,16 @@ a {
   }
 }
 
+.slogan {
+  font-family: bodedo, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28px;
+}
+
 .footer {
   text-align: center;
-  background-color: #e3b654;
+  background-color: var(--orange);
   padding-top: 4px;
   padding-bottom: 4px;
 }

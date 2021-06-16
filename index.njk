@@ -7,7 +7,7 @@ menu:
 ---
 
 {% set maxPosts = search.pages("type=posts").length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+<h2>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h2>
 
 {% set postslist = search.pages("type=posts", "date", -3) %}
 {% set postslistCounter = search.pages("type=posts").length %}
