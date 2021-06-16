@@ -59,6 +59,14 @@ a {
   font-size: 28px;
 }
 
+.sloganTwo {
+  font-family: bodedo, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28px;
+  padding-left: 24px;
+}
+
 .footer {
   text-align: center;
   background-color: var(--orange);
