@@ -9,9 +9,7 @@ tags:
 
 <p>I bought these <a rel="noreferrer noopener" href="https://northwave.com/en/" target="_blank">Northwave</a> cycling shoes in the spring of 2014. On the very first ride I crashed hard and crushed the mechanical buckle of the right shoe into smithereens. Northwave sent a replacement at no cost to me. That was the only problem (can you really call it a problem though?) that I ever had with those shoes.   Fast forward four years and tens of thousands of kilometers later and they still have a little life left in them.</p>
 
-<a href="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Cycling+Shoes/northwave+cycling+shoes-gravel+cycling-gravel+grinding-san+diego-.jpg" target="_blank" rel="noopener noreferrer">
-  <img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Cycling+Shoes/northwave+cycling+shoes-gravel+cycling-gravel+grinding-san+diego-.jpg" alt="sunset" class="blogImages" />
-</a>
+<img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/Cycling+Shoes/northwave+cycling+shoes-gravel+cycling-gravel+grinding-san+diego-.jpg" alt="sunset" class="blogImages" />
 
 <p>I raced and won my first Fondo in these shoes, I explored the spider infested jungle trails of Japan with these shoes on my feet, and they have carried me all over the coastal chaparral land that surrounds my home in north county San Diego.</p>
 
