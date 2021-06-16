@@ -12,7 +12,8 @@ body {
   margin: 0;
   font-family: -apple-system, system-ui, sans-serif;
   color: var(--darkgray);
-  background-color: var(--white);
+  background-color: #e3b654;
+  
 }
 
 main {
@@ -40,34 +41,12 @@ a {
 
 .footer {
   text-align: center;
-  background-color: #e6e6e6;
+  background-color: #e3b654;
   padding-top: 4px;
   padding-bottom: 4px;
 }
-/* Warning */
-.warning {
-  background-color: #ffc;
-  padding: 1em 0.5em;
-}
 
-table {
-  margin: 1em 0;
-
-  & td,
-  & th {
-    padding-right: 1em;
-  }
-}
-
-pre,
-code {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
-  line-height: 1.5;
-  font-size: 1rem;
-}
-
-hr {
-  border: 0;
-  border-top: solid 2px var(--lightgray);
-  margin: 5vh 0;
+.aboutCenter {
+  width: 50%;
+  margin: auto;
 }
