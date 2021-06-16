@@ -39,6 +39,13 @@ a {
   box-shadow: 10px 10px lightgray;
 }
 
+@media (max-width: 600px) {
+  .splash {
+    width: 200px;
+    height: 165px;
+  }
+}
+
 .footer {
   text-align: center;
   background-color: #e3b654;
