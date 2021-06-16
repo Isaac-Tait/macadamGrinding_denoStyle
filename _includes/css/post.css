@@ -12,6 +12,21 @@
   display: inline;
 }
 
+.aboutImages {
+  display: block;
+  width: 70%;
+  height: 42%;
+  min-width: 300px;
+  border-radius: 12%;
+  margin: auto;
+  padding-top: 6px;
+}
+
+.aboutCenter {
+  width: 75%;
+  margin: auto;
+}
+
 .blogImages {
   display: block;
   width: 70%;
