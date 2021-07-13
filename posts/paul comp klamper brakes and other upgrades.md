@@ -14,7 +14,7 @@ tags:
 
 <img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/paul-comp-klamper/khs+grit+110-paul+comp-klamper+brakes-selle+anatomica+saddle-redshift+sports-front+brakes.jpg" alt="klamper brakes" class="blogImages" />
 
-<p>The brakes required very little setting-in. By the end of my first ride I was able to lock the wheels up and skid from the hoods! The Klamper brakes stop just as well as my <a href="https://www.hopetech.com/products/brakes/cross-country/tech-3-x2/" target="_blank" rel="noopener noreferrer"> with braided steel housing (that are mounted on my XC race bike), which really blew my mind.</p>
+<p>The brakes required very little setting-in. By the end of my first ride I was able to lock the wheels up and skid from the hoods! The Klamper brakes stop just as well as my <a href="https://www.hopetech.com/products/brakes/cross-country/tech-3-x2/" target="_blank" rel="noopener noreferrer">Hope Tech 3 X2</a>hydraulic disc brakes with braided steel housing (that are mounted on my XC race bike), which really blew my mind.</p>
 
 <img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/paul-comp-klamper/khs+grit+110-paul+comp-klamper+brakes-selle+anatomica+saddle-redshift+sports.jpg" alt="cockpit two" class="blogImages" />
 
@@ -22,13 +22,13 @@ tags:
 
 <img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/paul-comp-klamper/khs+grit+110-paul+comp-klamper+brakes-selle+anatomica+saddle-redshift+sports-top+down+view.jpg" alt="bike saddle" class="blogImages" />
 
-<p>Buying this saddle was probably the best money I have ever spent. The riding comfort of my bike is indescribable. It feels like you are sitting on a cloud. I can ride for hours now without having to stop to my nether regions from being numb.</p>
+<p>Buying this saddle was probably the best money I have ever spent. The riding comfort of my bike is indescribable. It feels like you are sitting on a cloud. I can ride for hours now without having to stop because my nether regions are numb.</p>
 
 <img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/paul-comp-klamper/khs+grit+110-paul+comp-klamper+brakes-selle+anatomica+saddle-redshift+sports-sunset.jpg" alt="sunset" class="blogImages" />
 
-<p>I also replaced my square tapper bottom bracket and POS crank-arms for a nicer SRAM Rival setup. The pedal stroke is much more smooth now and I feel like I have a much higher power transfer to the ground with the higher quality setup.</p>
+<p>I also replaced my square tapper bottom bracket and POS crank-arms for a nicer SRAM Rival setup. The pedal stroke is considerably smoother now and I feel like I have a much higher power transfer to the ground with the higher quality setup.</p>
 
-<p>My old pair of Crank Bros. Eggbeater 1 pedals were getting pretty haggard. I was able to find a pair of Crank Bros. Candy 2 pedals in the discontinued "Burnt Orange" color-wave on Ebay. These new pedals match the other burnt orange bits and pieces on my bike quite nicely. I was super stoked to secure the winning bid, and at an amazing price too boot.</p>
+<p>My old pair of Crank Bros. Eggbeater 1 pedals were getting pretty haggard. I was able to find a pair of Crank Bros. Candy 2 pedals in the discontinued "Burnt Orange" color-wave on Ebay. These new pedals match the other burnt orange bits and pieces on my bike quite nicely. I was super stoked to secure the winning bid, and at an amazing price to boot.</p>
 
 <img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/paul-comp-klamper/khs+grit+110-paul+comp-klamper+brakes-selle+anatomica+saddle-redshift+sports-cockpit.jpg" alt="cockpit" class="blogImages" />
 
