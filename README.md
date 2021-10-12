@@ -8,7 +8,7 @@ Check your path by running
 
 The colon delimited list should have user/local/.deno/bin:$PATH if not you can easily add it by running:
 
-`export PATH="/Users/yourUserName/.deno/bin:$PATH"`
+`export PATH="/Users/yourUserName/.deno/bin:$PATH"` ** remember to put your machine's user name in place of `yourUserName`
 
 Now, after running `echo $PATH` you should see .deno/bin in your path list.
 
