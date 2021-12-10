@@ -12,6 +12,8 @@ tags:
 
 <img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/connecticut/connecticut-new+england-cycling-adventure-exploring-old+house.jpg" alt="old house" class="blogImages" />
 
+<hr />
+
 <img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/connecticut/connecticut-new+england-cycling-adventure-exploring-river.jpg" alt="river" class="blogImages" />
 
 <p>It took us awhile to get things unpacked but this week I was finally able to dig my bikes out of the packing boxes and rebuild them (thank you <a href="http://www.omegabicycleshop.com/" target="_blank" rel="noopener noreferrer">Omega Cycles</a> for doing such a great job packing them).</p>
