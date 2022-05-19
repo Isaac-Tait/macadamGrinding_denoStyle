@@ -72,4 +72,8 @@ a {
   background-color: var(--orange);
   padding-top: 4px;
   padding-bottom: 4px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 4px;
+  padding-right: 4px;
 }
