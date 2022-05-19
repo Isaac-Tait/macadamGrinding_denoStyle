@@ -14,6 +14,7 @@ tags:
 <p>It feels weird to put this out there on the internet, because it is so personal. I can assuage my anxiety a bit by thinking to myself <em>"Who is going to read this? Probably not that many people. So, what can it hurt?"</em> <strong>My mother, Yvonne Tait, killed herself on October 26, 2020.</strong>Just when I thought 2020 could not get any worse it got much much worse.</p>
 
 <img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/year-of-the-ox/yvonne+tait-1960%3A2020.jpg" alt="Yvonne Katherine Tait - my mother RIP" class="blogImages" />
+<p style="font-style: italic; font-size: 0.8rem; padding-left: 30px;">My dad, my mom, and me - when I was one and we were living in Fallbrook, CA</p>
 
 <p>So, yea life got shitty and then it got horribly f*$#ed a million miles past shitty. Odd thing is that the night my mom took her life I was out for a ride on my gravel bike. I was screaming down "CP Buffalo Hill" in the fading light when my front wheel hit a huge obstacle that I never saw. There was a horrendous bang and I thought for sure my wheel was jacked. I believe it was at that exact moment that my mom pulled the trigger. Her life ended and I kept riding, my bike and myself okay, oblivious to the carnage my mother had just caused...</p>
 
