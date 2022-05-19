@@ -14,7 +14,7 @@ tags:
 
 <img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/paul-comp-klamper/khs+grit+110-paul+comp-klamper+brakes-selle+anatomica+saddle-redshift+sports-front+brakes.jpg" alt="klamper brakes" class="blogImages" />
 
-<p>The brakes required very little setting-in. By the end of my first ride I was able to lock the wheels up and skid from the hoods! The Klamper brakes stop just as well as my <a href="https://www.hopetech.com/products/brakes/cross-country/tech-3-x2/" target="_blank" rel="noopener noreferrer">Hope Tech 3 X2</a>hydraulic disc brakes with braided steel housing (that are mounted on my XC race bike), which really blew my mind.</p>
+<p>The brakes required very little setting-in. By the end of my first ride I was able to lock the wheels up and skid from the hoods! The Klamper brakes stop just as well as my <a href="https://www.hopetech.com/products/brakes/cross-country/tech-3-x2/" target="_blank" rel="noopener noreferrer">Hope Tech 3 X2</a>&nbsp;hydraulic disc brakes with braided steel housing (that are mounted on my XC race bike), which really blew my mind.</p>
 
 <img src="https://macadam-grinding-photos.s3.us-west-2.amazonaws.com/paul-comp-klamper/khs+grit+110-paul+comp-klamper+brakes-selle+anatomica+saddle-redshift+sports.jpg" alt="cockpit two" class="blogImages" />
 
