@@ -38,6 +38,15 @@
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 
+.comments {
+  display: block;
+  width: 70%;
+  min-width: 300px;
+  height: 42%;
+  border-radius: 12px;
+  margin-left: 9%;
+}
+
 .post-body {
   font-size: 1.2em;
   line-height: 1.4;
